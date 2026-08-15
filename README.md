@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: baseline; justify-content: space-between;">
+<div style="display: flex; align-items: baseline; gap: 16px;">
   <h1 style="margin: 0;">你好 👋 我是吴建豪 (Wu Jianhao)</h1>
   <span style="font-size: 14px; color: #666;">常在互联网上以 <strong>seegood</strong> 署名</span>
 </div>
