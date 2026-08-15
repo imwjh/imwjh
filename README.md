@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: baseline; gap: 16px;">
-  <h1 style="margin: 0;">你好 👋 我是吴建豪 (Wu Jianhao)</h1>
-  <span style="font-size: 14px; color: #666;">常在互联网上以 <strong>seegood</strong> 署名</span>
-</div>
+### 你好 👋 我是吴建豪 (Wu Jianhao) <sub>常在互联网上以 <strong>seegood</strong> 署名</sub>
 
 > 2003 年生于广东河源，从小在湖北恩施偏远地区成长与受教育，接触互联网、电脑的时间较晚。
 
