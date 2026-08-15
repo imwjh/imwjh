@@ -1,1 +1,1 @@
-Move seegood alias under title as smaller text
+Place seegood alias to the right of title with separate font size
