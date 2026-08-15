@@ -1,1 +1,1 @@
-Redesign SVG icons with correct semantics and cohesive palette
+Replace icons with standard Lucide and Simple Icons library SVGs
