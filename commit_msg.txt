@@ -1,1 +1,1 @@
-Vertically center icons with inline text via HTML table
+Move seegood alias under title as smaller text
