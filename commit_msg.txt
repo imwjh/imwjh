@@ -1,0 +1,1 @@
+Use external SVG icon files (GitHub filters data URIs), shrink WeChat QR

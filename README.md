@@ -27,17 +27,17 @@
 
 | 类型 | 链接 |
 | --- | --- |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%233b82f6' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='9'/><path d='M3 12h18M12 3c2.5 2.5 2.5 15.5 0 18M12 3c-2.5 2.5-2.5 15.5 0 18'/></svg>" width="18"> 博客 Blog | [imwjh.com](https://imwjh.com) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%23ec4899' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><rect x='3' y='3' width='18' height='18' rx='5'/><circle cx='12' cy='12' r='4'/><circle cx='17' cy='7' r='1'/></svg>" width="18"> 作品集 Portfolio | [explore.seegood.top](https://explore.seegood.top) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%23f59e0b' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><path d='M12 21s-7-4.5-7-10a7 7 0 0 1 14 0c0 5.5-7 10-7 10z'/><circle cx='12' cy='11' r='2.5'/></svg>" width="18"> 支持我 Support | [imwjh.com/support-me](https://imwjh.com/support-me) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%2310b981' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><rect x='3' y='5' width='18' height='14' rx='3'/><path d='m4 7 8 6 8-6'/></svg>" width="18"> 邮箱 Email | [hi@imwjh.com](mailto:hi@imwjh.com) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%231f2937' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='9'/><path d='M16 8.5c-1.2.6-2.5 1-3.8 1.2M8 15c1.8-.9 3.7-1.3 5.6-1.3 1.6 0 3.1.3 4.4.9'/><circle cx='9' cy='10' r='1'/><circle cx='15' cy='10' r='1'/></svg>" width="18"> X (Twitter) | [@imwujh](https://x.com/imwujh) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%23e1306c' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><rect x='3' y='3' width='18' height='18' rx='5'/><circle cx='12' cy='12' r='4'/><circle cx='17' cy='7' r='1.1'/></svg>" width="18"> Instagram | [@imwujh](https://www.instagram.com/imwujh) |
-| <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%236366f1' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='9'/><circle cx='12' cy='12' r='3'/><path d='M12 3v3M12 18v3M3 12h3M18 12h3'/></svg>" width="18"> GitHub | [@imwjh](https://github.com/imwjh) |
+| ![](icons/blog.svg) 博客 Blog | [imwjh.com](https://imwjh.com) |
+| ![](icons/portfolio.svg) 作品集 Portfolio | [explore.seegood.top](https://explore.seegood.top) |
+| ![](icons/support.svg) 支持我 Support | [imwjh.com/support-me](https://imwjh.com/support-me) |
+| ![](icons/email.svg) 邮箱 Email | [hi@imwjh.com](mailto:hi@imwjh.com) |
+| ![](icons/x.svg) X (Twitter) | [@imwujh](https://x.com/imwujh) |
+| ![](icons/instagram.svg) Instagram | [@imwujh](https://www.instagram.com/imwujh) |
+| ![](icons/github.svg) GitHub | [@imwjh](https://github.com/imwjh) |
 
 > 微信公众号：扫码关注 **imwjh**
 >
-> <img src="https://me.imwjh.com/images/weix.avif" alt="微信公众号二维码" width="150" />
+> <img src="https://me.imwjh.com/images/weix.avif" alt="微信公众号二维码" width="120" />
 
 ---
 
