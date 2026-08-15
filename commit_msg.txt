@@ -1,1 +1,1 @@
-Fix oversized brand icons by setting explicit 20x20 dimensions
+Vertically center icons with inline text via HTML table
