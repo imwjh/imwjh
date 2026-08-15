@@ -1,4 +1,4 @@
-# 你好 👋 我是吴建豪 (Wu Jianhao) <sub><sub>常在互联网上以 <strong>seegood</strong> 署名</sub></sub>
+# 你好 👋 我是吴建豪 (Wu Jianhao) <sub><sub><sub><sub>常在互联网上以 <strong>seegood</strong> 署名</sub></sub></sub></sub>
 
 > 2003 年生于广东河源，从小在湖北恩施偏远地区成长与受教育，接触互联网、电脑的时间较晚。
 
