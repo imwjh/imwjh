@@ -1,1 +1,1 @@
-Use external SVG icon files (GitHub filters data URIs), shrink WeChat QR
+chore: remove stray commit_msg.txt
