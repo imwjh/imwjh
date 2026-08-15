@@ -1,1 +1,1 @@
-chore: remove stray commit_msg.txt
+Redesign SVG icons with correct semantics and cohesive palette
