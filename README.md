@@ -31,9 +31,9 @@
 | ![](icons/portfolio.svg) 作品集 Portfolio | [explore.seegood.top](https://explore.seegood.top) |
 | ![](icons/support.svg) 支持我 Support | [imwjh.com/support-me](https://imwjh.com/support-me) |
 | ![](icons/email.svg) 邮箱 Email | [hi@imwjh.com](mailto:hi@imwjh.com) |
-| ![](icons/x.svg) X (Twitter) | [@imwujh](https://x.com/imwujh) |
-| ![](icons/instagram.svg) Instagram | [@imwujh](https://www.instagram.com/imwujh) |
-| ![](icons/github.svg) GitHub | [@imwjh](https://github.com/imwjh) |
+| <img src="icons/x.svg" width="20" height="20" /> X (Twitter) | [@imwujh](https://x.com/imwujh) |
+| <img src="icons/instagram.svg" width="20" height="20" /> Instagram | [@imwujh](https://www.instagram.com/imwujh) |
+| <img src="icons/github.svg" width="20" height="20" /> GitHub | [@imwujh](https://github.com/imwjh) |
 
 > 微信公众号：扫码关注 **imwjh**
 >

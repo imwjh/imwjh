@@ -1,1 +1,1 @@
-Replace icons with standard Lucide and Simple Icons library SVGs
+Fix oversized brand icons by setting explicit 20x20 dimensions
